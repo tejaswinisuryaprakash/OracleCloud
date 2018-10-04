@@ -1,0 +1,6 @@
+tenancy_ocid="ocid1.tenancy.oc1..aaaaaaaa77j3ur2tpaic3jjubsvxhwpmrl2jtry4gl5jax2ecdtr4fbac4uq"
+compartment_ocid="ocid1.compartment.oc1..aaaaaaaasbd6jwfu63zs2ytssfhqvlwnblj7q65w4dxulqwp7erf5oc2k4pq"
+user_ocid="ocid1.user.oc1..aaaaaaaaw6w2kcr2q55h6gxa4ducobca3hbesncv5vw6xqx65j3q7r4ycgna"
+fingerprint="a0:72:2d:a5:0e:48:fd:80:29:92:e8:4e:04:f2:5f:6d"
+private_key_path="/Users/tsuryaprak/.oci/oci_api_key.pem"
+region="us-phoenix-1"
